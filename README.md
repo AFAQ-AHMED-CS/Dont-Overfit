@@ -7,4 +7,7 @@ The interesting thing about the competition is as the description put it
 
 It's truly a fun competition to gets your hands dirty.
 
+##Note
+I hold no rights to the data its property of kaggle.
+
 .
