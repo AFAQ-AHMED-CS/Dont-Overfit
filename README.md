@@ -3,7 +3,7 @@ THis is an attempt at the competition hosted on [Kaggle](https://www.kaggle.com/
 
 The interesting thing about the competition is as the description put it
 
-_It was a competition that challenged mere mortals to model a 20,000x200 matrix of continuous variables using only 250 training samples... without overfitting.
+*It was a competition that challenged mere mortals to model a 20,000x200 matrix of continuous variables using only 250 training samples... without overfitting.*
 
 It's truly a fun competition to gets your hands dirty.
 
