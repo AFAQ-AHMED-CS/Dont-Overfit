@@ -1,5 +1,5 @@
 # Dont-Overfit
-This is an attempt at the competition hosted on [Kaggle](https://www.kaggle.com/c/dont-overfit-ii).The accuracy achieved on the public leaderboard is 0.847.The solution involves using a simple Logistic Regression used to classify the input as 1 or 0.
+This is an attempt at the competition hosted on [Kaggle](https://www.kaggle.com/c/dont-overfit-ii).The accuracy achieved on the public leaderboard is 0.847.The solution involves using simple stacking of a variety classifiers such as Random Forest Classifier,XGBoost Classifier , Support Vector Machine(RBF Kernel) and Logistic Regression to classify the input as 1 or 0.
 
 The interesting thing about the competition is as the description put it
 
