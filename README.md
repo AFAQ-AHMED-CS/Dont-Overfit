@@ -1,5 +1,5 @@
-## Dont-Overfit
-THis is an attempt at the competition hosted on [Kaggle](https://www.kaggle.com/c/dont-overfit-ii).The accuracy achieved on the public leaderboard is 0.847.The solution involves using a simple Logistic Regression used to classify the input as 1 or 0.
+# Dont-Overfit
+This is an attempt at the competition hosted on [Kaggle](https://www.kaggle.com/c/dont-overfit-ii).The accuracy achieved on the public leaderboard is 0.847.The solution involves using a simple Logistic Regression used to classify the input as 1 or 0.
 
 The interesting thing about the competition is as the description put it
 
@@ -7,7 +7,7 @@ The interesting thing about the competition is as the description put it
 
 It's truly a fun competition to gets your hands dirty.
 
-##Note
+## Note
 I hold no rights to the data its property of kaggle.
 
 .
