@@ -1,13 +1,20 @@
-# Dont-Overfit
-This is an attempt at the competition hosted on [Kaggle](https://www.kaggle.com/c/dont-overfit-ii).The accuracy achieved on the public leaderboard is 0.847.The solution involves using simple stacking of a variety classifiers such as Random Forest Classifier,XGBoost Classifier , Support Vector Machine(RBF Kernel) and Logistic Regression to classify the input as 1 or 0.
+# Dont-Overfit II
 
-The interesting thing about the competition is as the description put it
+##Overview from Kaggle.
 
-*It was a competition that challenged mere mortals to model a 20,000x200 matrix of continuous variables using only 250 training samples... without overfitting.*
+Long ago, in the distant, fragrant mists of time, there was a competition…
+It was not just any competition.
 
-It's truly a fun competition to gets your hands dirty.
+It was a competition that challenged mere mortals to model a 20,000x200 matrix of continuous variables using only 250 training samples… without overfitting.
 
-## Note
-I hold no rights to the data its property of kaggle.
+Data scientists ― including Kaggle's very own Will Cukierski ― competed by the hundreds. Legends were made. (Will took 5th place, and eventually ended up working at Kaggle!) People overfit like crazy. It was a Kaggle-y, data science-y madhouse.
 
-.
+So… we're doing it again.
+
+Don't Overfit II: The Overfittening
+This is the next logical step in the evolution of weird competitions. Once again we have 20,000 rows of continuous variables, and a mere handful of training samples. Once again, we challenge you not to overfit. Do your best, model without overfitting, and add, perhaps, to your own legend.
+
+##Note from the Author
+
+A  simple attempt at modelling the data without any complex data preprocessing.It gave an accuracy of 84.7% on the Leaderboard.
+Email me if you have any doubts.
